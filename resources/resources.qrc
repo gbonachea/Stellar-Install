@@ -1,0 +1,7 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <file alias="icons/stellar-install.png">icons/stellar-install.png</file>
+        <file alias="icons/configuracion.png">icons/configuracion.png</file>
+    </qresource>
+</RCC>

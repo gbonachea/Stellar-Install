@@ -1,0 +1,18 @@
+[Desktop Entry]
+Name=Stellar Install
+Name[es]=Stellar Install
+Version=1.5
+Exec=stellar-install %u
+Icon=stellar-install
+Type=Application
+Categories=Qt;KDE;System;PackageManager;
+GenericName=Debian Package Installer
+GenericName[es]=Instalador de paquetes Debian
+Comment=Inspect and install local .deb packages securely
+Comment[es]=Inspecciona e instala paquetes .deb locales de forma segura
+MimeType=application/vnd.debian.binary-package;application/x-deb;application/x-debian-package;
+Keywords=deb;package;install;update;dependencies;apt;debian;
+Keywords[es]=deb;paquete;instalar;actualizar;dependencias;apt;debian;
+Terminal=false
+StartupNotify=true
+StartupWMClass=stellar-install
